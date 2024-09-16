@@ -21,3 +21,5 @@ try:
     1 / 0  # Provoca um erro de divisão por zero
 except ZeroDivisionError as e:
     logging.error("Erro de divisão por zero: %s", e)
+    
+document.getElementsByTagName('iframe')[0].src = document.getElementsByTagName('iframe')[0].src;
